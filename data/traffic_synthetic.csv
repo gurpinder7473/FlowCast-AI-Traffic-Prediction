@@ -1,0 +1,6 @@
+hour,day_of_week,is_weekend,is_holiday,temperature,precipitation,wind_speed,congestion
+8,0,0,0,29.5,0.0,4.5,72.3
+18,2,0,0,28.1,0.0,3.0,78.9
+14,5,1,0,32.0,0.0,6.0,34.2
+9,6,1,0,24.0,3.2,5.0,41.7
+20,4,0,1,22.3,8.0,2.0,28.6

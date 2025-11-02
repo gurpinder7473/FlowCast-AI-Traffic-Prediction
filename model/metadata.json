@@ -1,0 +1,15 @@
+{
+  "model": "MLPRegressor (sklearn)",
+  "features": [
+    "hour",
+    "day_of_week",
+    "is_weekend",
+    "is_holiday",
+    "temperature",
+    "precipitation",
+    "wind_speed"
+  ],
+  "mse_test": 84.4029,
+  "r2_test": 0.6127,
+  "n_samples": 5000
+}

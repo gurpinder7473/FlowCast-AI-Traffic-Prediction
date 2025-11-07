@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 st.set_page_config(page_title='Traffic Congestion Predictor', layout='centered')
 
-st.title('Traffic Congestion Predictor (Neural-like Demo) 🚦')
+st.title('Traffic Congestion Predictor  🚦')
 
 
 st.sidebar.header("Input Controls")

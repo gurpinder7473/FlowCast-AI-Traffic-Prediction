@@ -6,8 +6,7 @@ import matplotlib.pyplot as plt
 st.set_page_config(page_title='Traffic Congestion Predictor', layout='centered')
 
 st.title('Traffic Congestion Predictor (Neural-like Demo) 🚦')
-st.markdown('''This demo uses a lightweight **neural-like function** (NumPy) to simulate congestion prediction.
-No training is required. Just deploy and present.''')
+
 
 st.sidebar.header("Input Controls")
 hour = st.sidebar.slider("Hour of day", 0, 23, 8)

@@ -1,1 +1,1 @@
-QnA for viva presentation about Neural Network-based Predictive Model.
+ presentation about Neural Network-based Predictive Model.
